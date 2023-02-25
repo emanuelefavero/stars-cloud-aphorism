@@ -8,7 +8,7 @@ This is a website that generates stars, shows moving clouds and displays random 
 
 ## Demo
 
-- [Website](https://emanuelefavero.github.io/stars-cloud-aphorism/)
+- [Website](https://emanuelefavero.github.io/stars-clouds-aphorism/)
 
 #### Screenshot
 
