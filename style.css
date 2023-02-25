@@ -118,3 +118,28 @@ a#developer:hover {
   opacity: 1;
   bottom: -15px;
 }
+
+/* MEDIA QUERIES */
+@media screen and (max-width: 768px) {
+  .aphorism {
+    padding: 2rem;
+  }
+}
+
+@media screen and (max-width: 300px) {
+  .aphorism {
+    padding: 1rem;
+
+    transform: translateY(0px);
+  }
+
+  .aphorism blockquote {
+    font-size: 1.25rem;
+  }
+}
+
+@media screen and (max-width: 200px) {
+  .aphorism blockquote {
+    font-size: 0.875rem;
+  }
+}
