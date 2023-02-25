@@ -7,3 +7,7 @@ This is a website that generates stars, shows moving clouds and displays random 
 ## How to run
 
 - Clone this repository and open the index.html file in your browser
+
+## License
+
+- [MIT](LICENSE.md)
