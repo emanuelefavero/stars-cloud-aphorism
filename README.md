@@ -6,6 +6,10 @@ This is a website that generates stars, shows moving clouds and displays random 
 
 &nbsp;
 
+## Demo
+
+- [Website](https://emanuelefavero.github.io/stars-cloud-aphorism/)
+
 #### Screenshot
 
 <img src="screenshot.png" alt="screenshot" width="300">
